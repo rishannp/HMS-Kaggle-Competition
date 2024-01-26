@@ -1,0 +1,26 @@
+** Literature **
+Search is based on a Web of Science search with keywords "EEG" AND "SEIZURE" AND "CLASSIFICATION"
+
+All highly cited, relatively recent papers. Earliest is 2014 nonetheless all notable works in the related field. 
+
+
+
+Review Articles:
+
+Machine Learning for Predicting Epileptic Seizures Using EEG Signals: A Review : https://ieeexplore-ieee-org.libproxy.ucl.ac.uk/document/9139257
+Epileptic Seizures Detection Using Deep Learning Techniques: A Review : https://www.mdpi.com/1660-4601/18/11/5780
+Deep learning for electroencephalogram (EEG) classification tasks: a review : https://iopscience-iop-org.libproxy.ucl.ac.uk/article/10.1088/1741-2552/ab0ab5
+
+
+Focused Articles: 
+
+Epileptic Seizure Classification of EEG Time-Series Using Rational Discrete Short-Time Fourier Transform: https://ieeexplore-ieee-org.libproxy.ucl.ac.uk/document/6909003
+Classification of epileptic seizures in EEG signals based on phase space representation of intrinsic mode functions : https://www-sciencedirect-com.libproxy.ucl.ac.uk/science/article/pii/S0957417414005120?via%3Dihub
+EEG based multi-class seizure type classification using convolutional neural network and transfer learning : https://www-sciencedirect-com.libproxy.ucl.ac.uk/science/article/pii/S0893608020300198?via%3Dihub
+A Long Short-Term Memory deep learning network for the prediction of epileptic seizures using EEG signals : https://www-sciencedirect-com.libproxy.ucl.ac.uk/science/article/pii/S001048251830132X?via%3Dihub
+Efficient Epileptic Seizure Prediction Based on Deep Learning : https://ieeexplore-ieee-org.libproxy.ucl.ac.uk/document/8765420
+Deep-EEG: An Optimized and Robust Framework and Method for EEG-Based Diagnosis of Epileptic Seizure : https://www.mdpi.com/2075-4418/13/4/773
+A comprehensive comparison of handcrafted features and convolutional autoencoders for epileptic seizures detection in EEG signals : https://www-sciencedirect-com.libproxy.ucl.ac.uk/science/article/pii/S0957417420306114?via%3Dihub
+A Novel Deep Neural Network for Robust Detection of Seizures Using EEG Signals : https://www.hindawi.com/journals/cmmm/2020/9689821/
+Deep convolutional neural network for the automated detection and diagnosis of seizure using EEG signals : https://www-sciencedirect-com.libproxy.ucl.ac.uk/science/article/pii/S0010482517303153?via%3Dihub
+
